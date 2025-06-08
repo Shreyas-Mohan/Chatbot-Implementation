@@ -1,14 +1,34 @@
-# Welcome to Chainlit! 🚀🤖
+# Zomato Chatbot Menu
 
-Hi there, Developer! 👋 We're excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
+## Starters
+- Paneer Tikka - ₹180
+- Veg Manchurian - ₹160
+- Chicken 65 - ₹220
+- Hara Bhara Kabab - ₹150
 
-## Useful Links 🔗
+## Main Course
+- Butter Chicken - ₹320
+- Dal Makhani - ₹200
+- Paneer Butter Masala - ₹240
+- Chicken Biryani - ₹260
+- Veg Biryani - ₹200
+- Rogan Josh - ₹350
 
-- **Documentation:** Get started with our comprehensive [Chainlit Documentation](https://docs.chainlit.io) 📚
-- **Discord Community:** Join our friendly [Chainlit Discord](https://discord.gg/k73SQ3FyUh) to ask questions, share your projects, and connect with other developers! 💬
+## Breads
+- Butter Naan - ₹40
+- Garlic Naan - ₹50
+- Tandoori Roti - ₹30
+- Lachha Paratha - ₹45
 
-We can't wait to see what you create with Chainlit! Happy coding! 💻😊
+## Desserts
+- Gulab Jamun (2 pcs) - ₹60
+- Rasmalai (2 pcs) - ₹80
+- Kulfi - ₹70
 
-## Welcome screen
+## Beverages
+- Masala Chai - ₹40
+- Lassi - ₹60
+- Cold Drink - ₹40
 
-To modify the welcome screen, edit the `chainlit.md` file at the root of your project. If you do not want a welcome screen, just leave this file empty.
+---
+*All prices are in INR and inclusive of taxes.*
